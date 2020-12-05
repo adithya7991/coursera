@@ -2,3 +2,5 @@ Smoke
 Sanity
 SIT
 UAT
+API
+Security
