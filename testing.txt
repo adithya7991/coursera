@@ -4,3 +4,5 @@ SIT
 UAT
 API
 Security
+Regression
+retesting
